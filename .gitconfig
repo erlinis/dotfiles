@@ -31,3 +31,6 @@
 	autosquash = true
 [include]
 	path = ~/.gitconfig.local
+[user]
+	name = Pedro Fernandez
+	email = p.fernandez@astoundcommerce.com
